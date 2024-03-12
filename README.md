@@ -1,5 +1,5 @@
 # RPG
-In this project, I am building an RPG game to get familirize myself with HTML, 
+In this project, I am building an RPG game to get familiar with HTML, 
 CSS and JavaScript by following freeCodeCamp tutorial.
 
 # What this program do?
